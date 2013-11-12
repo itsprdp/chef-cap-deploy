@@ -15,6 +15,9 @@
     "nginx": {
       "locked_version": "2.0.0"
     },
+    "rvm_req": {
+      "path": "./cookbooks/rvm_req"
+    },
     "dmg": {
       "locked_version": "2.0.4"
     },
