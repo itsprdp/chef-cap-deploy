@@ -6,11 +6,11 @@ package "libyaml-dev" do
   action :install
 end
 
-package "libsqllite3-dev" do
+package "libsqlite3-dev" do
   action :install
 end
 
-package "sqllite3" do
+package "sqlite3" do
   action :install
 end
 

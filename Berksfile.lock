@@ -18,11 +18,14 @@
     "rvm_req": {
       "path": "./cookbooks/rvm_req"
     },
+    "nodejs": {
+      "locked_version": "1.3.0"
+    },
     "dmg": {
-      "locked_version": "2.0.4"
+      "locked_version": "2.0.8"
     },
     "yum": {
-      "locked_version": "2.3.4"
+      "locked_version": "2.4.2"
     },
     "windows": {
       "locked_version": "1.11.0"
@@ -31,7 +34,7 @@
       "locked_version": "1.1.4"
     },
     "runit": {
-      "locked_version": "1.3.0"
+      "locked_version": "1.4.0"
     },
     "bluepill": {
       "locked_version": "2.3.0"
